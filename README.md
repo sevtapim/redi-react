@@ -1,6 +1,10 @@
 # redi-react
 Demo day project for React course at ReDi School of Digital Integration
 
+## View this project in action
+
+[IDMC Data using nivo/sankey diagram](https://sevtapim.github.io/redi-react/)
+
 ## Building and running on localhost
 
 First install dependencies:
