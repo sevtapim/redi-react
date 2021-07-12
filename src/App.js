@@ -38,7 +38,6 @@ const App = () => {
     const year = years[0];
     const country = countries[0].iso3;
 
-    // Set the default values:
     setQuery({
       years,
       countries,
