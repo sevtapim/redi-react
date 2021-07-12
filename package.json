@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "homepage": "/redi-react/",
   "dependencies": {
     "@nivo/core": "^0.72.0",
     "@nivo/sankey": "0.72.0",
